@@ -7,4 +7,7 @@ I used the Thunder force 4 (Megadrive) sprites.
 "Not made with Unity" :)
 
 <br>
-<img src="./img/captureShmup.png" />
+ 
+ [![Delphier](http://img.youtube.com/vi/qXo-VWfRasQ/0.jpg)](https://www.youtube.com/watch?v=qXo-VWfRasQ)
+
+(click the image to see the Youtube video)
